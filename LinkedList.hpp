@@ -9,6 +9,7 @@ template <typename T>
 LinkedList<T>::LinkedList() : m_front(nullptr), m_size(0)
 {
  string jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj;
+ okokokokokokokokokokokoksadlf ;ldsakf l;dskf ;laksd
 }
 
 template <typename T>
